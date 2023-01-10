@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuwarpCV/static/css/main.4a4937b1.css",
+    "main.js": "/kuwarpCV/static/js/main.83cb5396.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/kuwarpCV/static/js/787.dc9ee2bf.chunk.js",
+    "index.html": "/kuwarpCV/index.html",
+    "main.4a4937b1.css.map": "/kuwarpCV/static/css/main.4a4937b1.css.map",
+    "main.83cb5396.js.map": "/kuwarpCV/static/js/main.83cb5396.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/kuwarpCV/static/js/787.dc9ee2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4937b1.css",
+    "static/js/main.83cb5396.js"
+  ]
+}
